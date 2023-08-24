@@ -2,9 +2,9 @@
 <h3>Mechanical Engineer from İstanbul/Turkey. After i graduated started to study in software and trying to be a .Net Developer. Right now I'm in a gap time, looking for Jr .Net Developer job opportunities.</h3>
 
 - 🌱 I am currently studying API with a bootcamp program
+- 📫 How to reach me isilaycakar1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-📫 How to reach me isilaycakar1@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/isilay-cakar-08a125205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isilay-cakar-08a125205" height="30" width="40" /></a>
 </p>
