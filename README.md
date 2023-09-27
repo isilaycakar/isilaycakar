@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Işılay Çakar</h1>
 <h3>Mechanical Engineer from İstanbul/Turkey. After i graduated started to study in software and trying to be a .Net Developer. Right now I'm in a gap time, looking for Jr .Net Developer job opportunities.</h3>
 
-- 🌱 I am currently studying API with a bootcamp program
 - 📫 How to reach me isilaycakar1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
